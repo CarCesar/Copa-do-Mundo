@@ -1,0 +1,458 @@
+﻿Posicao;Selecao;Continente;Ano;P
+1;Uruguai;SA;1930;1
+2;Argentina;SA;1930;2
+3;Estados Unidos;NA;1930;3
+4;Iugoslávia;EU;1930;4
+5;Chile;SA;1930;FG
+6;Brasil;SA;1930;FG
+7;França;EU;1930;FG
+8;Romênia;EU;1930;FG
+9;Paraguai;SA;1930;FG
+10;Peru;SA;1930;FG
+11;Bélgica;EU;1930;FG
+12;Bolívia;SA;1930;FG
+13;México;NA;1930;FG
+1;Itália;EU;1934;1
+2;Tchecoslováquia;EU;1934;2
+3;Alemanha;EU;1934;3
+4;Áustria;EU;1934;4
+5;Espanha;EU;1934;QF
+6;Hungria;EU;1934;QF
+7;Suíça;EU;1934;QF
+8;Suécia;EU;1934;QF
+9;Argentina;SA;1934;OF
+10;França;EU;1934;OF
+11;Holanda;EU;1934;OF
+12;Romênia;EU;1934;OF
+13;Egito;FRICA;1934;OF
+14;Brasil;SA;1934;OF
+15;Bélgica;EU;1934;OF
+16;Estados Unidos;NA;1934;OF
+1;Itália;EU;1938;1
+2;Hungria;EU;1938;2
+3;Brasil;SA;1938;3
+4;Suécia;EU;1938;4
+5;Tchecoslováquia;EU;1938;QF
+6;Suíça;EU;1938;QF
+7;Cuba;NA;1938;QF
+8;França;EU;1938;QF
+9;Romênia;EU;1938;OF
+10;Alemanha;EU;1938;OF
+11;Polónia;EU;1938;OF
+12;Noruega;EU;1938;OF
+13;Bélgica;EU;1938;OF
+14;Holanda;EU;1938;OF
+15;Índias Orientais Neerlandesas;ASIA;1938;OF
+1;Uruguai;SA;1950;1
+2;Brasil;SA;1950;2
+3;Suécia;EU;1950;3
+4;Espanha;EU;1950;4
+5;Iugoslávia;EU;1950;FG
+6;Suíça;EU;1950;FG
+7;Itália;EU;1950;FG
+8;Inglaterra;EU;1950;FG
+9;Chile;SA;1950;FG
+10;Estados Unidos;NA;1950;FG
+11;Paraguai;SA;1950;FG
+12;México;NA;1950;FG
+13;Bolívia;SA;1950;FG
+1;Alemanha;EU;1954;1
+2;Hungria;EU;1954;2
+3;Áustria;EU;1954;3
+4;Uruguai;SA;1954;4
+5;Suíça;EU;1954;QF
+6;Brasil;SA;1954;QF
+7;Inglaterra;EU;1954;QF
+8;Iugoslávia;EU;1954;QF
+9;França;EU;1954;FG
+10;Turquia;EU;1954;FG
+11;Itália;EU;1954;FG
+12;Bélgica;EU;1954;FG
+13;México;NA;1954;FG
+14;Tchecoslováquia;EU;1954;FG
+15;Escócia;EU;1954;FG
+16;Coreia do Sul;ASIA;1954;FG
+1;Brasil;SA;1958;1
+2;Suécia;EU;1958;2
+3;França;EU;1958;3
+4;Alemanha;EU;1958;4
+5;Gales;EU;1958;QF
+6;União Soviética;EU;1958;QF
+7;Irlanda do Norte;EU;1958;QF
+8;Iugoslávia;EU;1958;QF
+9;Tchecoslováquia;EU;1958;FG
+10;Hungria;EU;1958;FG
+11;Inglaterra;EU;1958;FG
+12;Paraguai;SA;1958;FG
+13;Argentina;SA;1958;FG
+14;Escócia;EU;1958;FG
+15;Áustria;EU;1958;FG
+16;México;NA;1958;FG
+1;Brasil;SA;1962;1
+2;Tchecoslováquia;EU;1962;2
+3;Chile;SA;1962;3
+4;Iugoslávia;EU;1962;4
+5;Hungria;EU;1962;QF
+6;União Soviética;EU;1962;QF
+7;Alemanha;EU;1962;QF
+8;Inglaterra;EU;1962;QF
+9;Itália;EU;1962;FG
+10;Argentina;SA;1962;FG
+11;México;NA;1962;FG
+12;Espanha;EU;1962;FG
+13;Uruguai;SA;1962;FG
+14;Colômbia;SA;1962;FG
+15;Bulgária;EU;1962;FG
+16;Suíça;EU;1962;FG
+1;Inglaterra;EU;1966;1
+2;Alemanha;EU;1966;2
+3;Portugal;EU;1966;3
+4;União Soviética;EU;1966;4
+5;Argentina;SA;1966;QF
+6;Hungria;EU;1966;QF
+7;Uruguai;SA;1966;QF
+8;Coreia do Norte;ASIA;1966;QF
+9;Itália;EU;1966;FG
+10;Espanha;EU;1966;FG
+11;Brasil;SA;1966;FG
+12;México;NA;1966;FG
+13;Chile;SA;1966;FG
+14;França;EU;1966;FG
+15;Bulgária;EU;1966;FG
+16;Suíça;EU;1966;FG
+1;Brasil;SA;1970;1
+2;Itália;EU;1970;2
+3;Alemanha;EU;1970;3
+4;Uruguai;SA;1970;4
+5;União Soviética;EU;1970;QF
+6;México;NA;1970;QF
+7;Peru;SA;1970;QF
+8;Inglaterra;EU;1970;QF
+9;Suécia;EU;1970;FG
+10;Bélgica;EU;1970;FG
+11;Romênia;EU;1970;FG
+12;Israel;EU;1970;FG
+13;Bulgária;EU;1970;FG
+14;Marrocos;FRICA;1970;FG
+15;Tchecoslováquia;EU;1970;FG
+16;El Salvador;NA;1970;FG
+1;Alemanha;EU;1974;1
+2;Holanda;EU;1974;2
+3;Polónia;EU;1974;3
+4;Brasil;SA;1974;4
+5;Suécia;EU;1974;QF
+6;Oriental Alemanha;EU;1974;QF
+7;Iugoslávia;EU;1974;QF
+8;Argentina;SA;1974;QF
+9;Escócia;EU;1974;FG
+10;Itália;EU;1974;FG
+11;Chile;SA;1974;FG
+12;Bulgária;EU;1974;FG
+13;Uruguai;SA;1974;FG
+14;Austrália;ASIA;1974;FG
+15;Haiti;NA;1974;FG
+16;Zaire;FRICA;1974;FG
+1;Argentina;SA;1978;1
+2;Holanda;EU;1978;2
+3;Brasil;SA;1978;3
+4;Itália;EU;1978;4
+5;Polónia;EU;1978;QF
+6;Alemanha;EU;1978;QF
+7;Áustria;EU;1978;QF
+8;Peru;SA;1978;QF
+9;Tunísia;FRICA;1978;FG
+10;Espanha;EU;1978;FG
+11;Escócia;EU;1978;FG
+12;França;EU;1978;FG
+13;Suécia;EU;1978;FG
+14;Irã;ASIA;1978;FG
+15;Hungria;EU;1978;FG
+16;México;NA;1978;FG
+1;Itália;EU;1982;1
+2;Alemanha;EU;1982;2
+3;Polónia;EU;1982;3
+4;França;EU;1982;4
+5;Brasil;SA;1982;SG
+6;Inglaterra;EU;1982;SG
+7;União Soviética;EU;1982;SG
+8;Áustria;EU;1982;SG
+9;Bélgica;EU;1982;SG
+10;Irlanda do Norte;EU;1982;SG
+11;Argentina;SA;1982;SG
+12;Espanha;EU;1982;SG
+13;Argélia;FRICA;1982;FG
+14;Hungria;EU;1982;FG
+15;Escócia;EU;1982;FG
+16;Iugoslávia;EU;1982;FG
+17;Camarões;FRICA;1982;FG
+18;Honduras;NA;1982;FG
+19;Tchecoslováquia;EU;1982;FG
+20;Peru;SA;1982;FG
+21;Kuwait;ASIA;1982;FG
+22;Chile;SA;1982;FG
+23;Nova Zelândia;OC;1982;FG
+24;El Salvador;NA;1982;FG
+1;Argentina;SA;1986;1
+2;Alemanha;EU;1986;2
+3;França;EU;1986;3
+4;Bélgica;EU;1986;4
+5;Brasil;SA;1986;QF
+6;México;NA;1986;QF
+7;Espanha;EU;1986;QF
+8;Inglaterra;EU;1986;QF
+9;Dinamarca;EU;1986;OF
+10;União Soviética;EU;1986;OF
+11;Marrocos;FRICA;1986;OF
+12;Itália;EU;1986;OF
+13;Paraguai;SA;1986;OF
+14;Polónia;EU;1986;OF
+15;Bulgária;EU;1986;OF
+16;Uruguai;SA;1986;OF
+17;Portugal;EU;1986;FG
+18;Hungria;EU;1986;FG
+19;Escócia;EU;1986;FG
+20;Coreia do Sul;ASIA;1986;FG
+21;Irlanda do Norte;EU;1986;FG
+22;Argélia;FRICA;1986;FG
+23;Iraque;ASIA;1986;FG
+24;Canadá;NA;1986;FG
+1;Alemanha;EU;1990;1
+2;Argentina;SA;1990;2
+3;Itália;EU;1990;3
+4;Inglaterra;EU;1990;4
+5;Iugoslávia;EU;1990;QF
+6;Tchecoslováquia;EU;1990;QF
+7;Camarões;FRICA;1990;QF
+8;Irlanda;EU;1990;QF
+9;Brasil;SA;1990;OF
+10;Espanha;EU;1990;OF
+11;Romênia;EU;1990;OF
+12;Bélgica;EU;1990;OF
+13;Costa Rica;NA;1990;OF
+14;Holanda;EU;1990;OF
+15;Colômbia;SA;1990;OF
+16;Uruguai;SA;1990;OF
+17;União Soviética;EU;1990;FG
+18;Áustria;EU;1990;FG
+19;Escócia;EU;1990;FG
+20;Egito;FRICA;1990;FG
+21;Suécia;EU;1990;FG
+22;Coreia do Sul;ASIA;1990;FG
+23;Estados Unidos;NA;1990;FG
+24;Emirados Árabes Unidos;ASIA;1990;FG
+1;Brasil;SA;1994;1
+2;Itália;EU;1994;2
+3;Suécia;EU;1994;3
+4;Bulgária;EU;1994;4
+5;Alemanha;EU;1994;QF
+6;Romênia;EU;1994;QF
+7;Holanda;EU;1994;QF
+8;Espanha;EU;1994;QF
+9;Nigéria;FRICA;1994;OF
+10;Argentina;SA;1994;OF
+11;Bélgica;EU;1994;OF
+12;Arábia Saudita;ASIA;1994;OF
+13;México;NA;1994;OF
+14;Estados Unidos;NA;1994;OF
+15;Suíça;EU;1994;OF
+16;Irlanda;EU;1994;OF
+17;Noruega;EU;1994;FG
+18;Rússia;EU;1994;FG
+19;Colômbia;SA;1994;FG
+20;Coreia do Sul;ASIA;1994;FG
+21;Bolívia;SA;1994;FG
+22;Camarões;FRICA;1994;FG
+23;Marrocos;FRICA;1994;FG
+24;Grécia;EU;1994;FG
+1;França;EU;1998;1
+2;Brasil;SA;1998;2
+3;Croácia;EU;1998;3
+4;Holanda;EU;1998;4
+5;Itália;EU;1998;QF
+6;Argentina;SA;1998;QF
+7;Alemanha;EU;1998;QF
+8;Dinamarca;EU;1998;QF
+9;Inglaterra;EU;1998;OF
+10;Iugoslávia;EU;1998;OF
+11;Romênia;EU;1998;OF
+12;Nigéria;FRICA;1998;OF
+13;México;NA;1998;OF
+14;Paraguai;SA;1998;OF
+15;Noruega;EU;1998;OF
+16;Chile;SA;1998;OF
+17;Espanha;EU;1998;FG
+18;Marrocos;FRICA;1998;FG
+19;Bélgica;EU;1998;FG
+20;Irã;ASIA;1998;FG
+21;Colômbia;SA;1998;FG
+22;Jamaica;NA;1998;FG
+23;Áustria;EU;1998;FG
+24;África do Sul;FRICA;1998;FG
+25;Camarões;FRICA;1998;FG
+26;Tunísia;FRICA;1998;FG
+27;Escócia;EU;1998;FG
+28;Arábia Saudita;ASIA;1998;FG
+29;Bulgária;EU;1998;FG
+30;Coreia do Sul;ASIA;1998;FG
+31;Japão;ASIA;1998;FG
+32;Estados Unidos;NA;1998;FG
+1;Brasil;SA;2002;1
+2;Alemanha;EU;2002;2
+3;Turquia;EU;2002;3
+4;Coreia do Sul;ASIA;2002;4
+5;Espanha;EU;2002;QF
+6;Inglaterra;EU;2002;QF
+7;Senegal;FRICA;2002;QF
+8;Estados Unidos;NA;2002;QF
+9;Japão;ASIA;2002;OF
+10;Dinamarca;EU;2002;OF
+11;México;NA;2002;OF
+12;Irlanda;EU;2002;OF
+13;Suécia;EU;2002;OF
+14;Bélgica;EU;2002;OF
+15;Itália;EU;2002;OF
+16;Paraguai;SA;2002;OF
+17;África do Sul;FRICA;2002;FG
+18;Argentina;SA;2002;FG
+19;Costa Rica;NA;2002;FG
+20;Camarões;FRICA;2002;FG
+21;Portugal;EU;2002;FG
+22;Rússia;EU;2002;FG
+23;Croácia;EU;2002;FG
+24;Equador;SA;2002;FG
+25;Polónia;EU;2002;FG
+26;Uruguai;SA;2002;FG
+27;Nigéria;FRICA;2002;FG
+28;França;EU;2002;FG
+29;Tunísia;FRICA;2002;FG
+30;Eslovênia;EU;2002;FG
+31;China;ASIA;2002;FG
+32;Arábia Saudita;ASIA;2002;FG
+1;Itália;EU;2006;1
+2;França;EU;2006;2
+3;Alemanha;EU;2006;3
+4;Portugal;EU;2006;4
+5;Brasil;SA;2006;QF
+6;Argentina;SA;2006;QF
+7;Inglaterra;EU;2006;QF
+8;Ucrânia;EU;2006;QF
+9;Espanha;EU;2006;OF
+10;Suíça;EU;2006;OF
+11;Holanda;EU;2006;OF
+12;Equador;SA;2006;OF
+13;Gana;FRICA;2006;OF
+14;Suécia;EU;2006;OF
+15;México;NA;2006;OF
+16;Austrália;ASIA;2006;OF
+17;Coreia do Sul;ASIA;2006;FG
+18;Paraguai;SA;2006;FG
+19;Costa do Marfim;FRICA;2006;FG
+20;Chéquia;EU;2006;FG
+21;Polónia;EU;2006;FG
+22;Croácia;EU;2006;FG
+23;Angola;FRICA;2006;FG
+24;Tunísia;FRICA;2006;FG
+25;Irã;ASIA;2006;FG
+26;Estados Unidos;NA;2006;FG
+27;Trindade e Tobago;NA;2006;FG
+28;Japão;ASIA;2006;FG
+29;Arábia Saudita;ASIA;2006;FG
+30;Togo;FRICA;2006;FG
+31;Costa Rica;NA;2006;FG
+32;Sérvia e Montenegro;EU;2006;FG
+1;Espanha;EU;2010;1
+2;Holanda;EU;2010;2
+3;Alemanha;EU;2010;3
+4;Uruguai;SA;2010;4
+5;Argentina;SA;2010;QF
+6;Brasil;SA;2010;QF
+7;Gana;FRICA;2010;QF
+8;Paraguai;SA;2010;QF
+9;Japão;ASIA;2010;OF
+10;Chile;SA;2010;OF
+11;Portugal;EU;2010;OF
+12;Estados Unidos;NA;2010;OF
+13;Inglaterra;EU;2010;OF
+14;México;NA;2010;OF
+15;Coreia do Sul;ASIA;2010;OF
+16;Eslováquia;EU;2010;OF
+17;Costa do Marfim;FRICA;2010;FG
+18;Eslovênia;EU;2010;FG
+19;Suíça;EU;2010;FG
+20;África do Sul;FRICA;2010;FG
+21;Austrália;ASIA;2010;FG
+22;Nova Zelândia;OC;2010;FG
+23;Servia;EU;2010;FG
+24;Dinamarca;EU;2010;FG
+25;Grécia;EU;2010;FG
+26;Itália;EU;2010;FG
+27;Nigéria;FRICA;2010;FG
+28;Argélia;FRICA;2010;FG
+29;França;EU;2010;FG
+30;Honduras;NA;2010;FG
+31;Camarões;FRICA;2010;FG
+32;Coreia do Norte;ASIA;2010;FG
+1;Alemanha;EU;2014;1
+2;Argentina;SA;2014;2
+3;Holanda;EU;2014;3
+4;Brasil;SA;2014;4
+5;Colômbia;SA;2014;QF
+6;Bélgica;EU;2014;QF
+7;França;EU;2014;QF
+8;Costa Rica;NA;2014;QF
+9;Chile;SA;2014;OF
+10;México;NA;2014;OF
+11;Suíça;EU;2014;OF
+12;Uruguai;SA;2014;OF
+13;Grécia;EU;2014;OF
+14;Argélia;FRICA;2014;OF
+15;Estados Unidos;NA;2014;OF
+16;Nigéria;FRICA;2014;OF
+17;Equador;SA;2014;FG
+18;Portugal;EU;2014;FG
+19;Croácia;EU;2014;FG
+20;Bósnia e Herzegovina;EU;2014;FG
+21;Costa do Marfim;FRICA;2014;FG
+22;Itália;EU;2014;FG
+23;Espanha;EU;2014;FG
+24;Rússia;EU;2014;FG
+25;Gana;FRICA;2014;FG
+26;Inglaterra;EU;2014;FG
+27;Coreia do Sul;ASIA;2014;FG
+28;Irã;ASIA;2014;FG
+29;Japão;ASIA;2014;FG
+30;Austrália;ASIA;2014;FG
+31;Honduras;NA;2014;FG
+32;Camarões;FRICA;2014;FG
+1;França;EU;2018;1
+2;Croácia;EU;2018;2
+3;Bélgica;EU;2018;3
+4;Inglaterra;EU;2018;4
+5;Uruguai;SA;2018;QF
+6;Brasil;SA;2018;QF
+7;Suécia;EU;2018;QF
+8;Rússia;EU;2018;QF
+9;Colômbia;SA;2018;OF
+10;Espanha;EU;2018;OF
+11;Dinamarca;EU;2018;OF
+12;México;NA;2018;OF
+13;Portugal;EU;2018;OF
+14;Suíça;EU;2018;OF
+15;Japão;ASIA;2018;OF
+16;Argentina;SA;2018;OF
+17;Senegal;FRICA;2018;FG
+18;Irã;ASIA;2018;FG
+19;Coreia do Sul;ASIA;2018;FG
+20;Peru;SA;2018;FG
+21;Nigéria;FRICA;2018;FG
+22;Alemanha;EU;2018;FG
+23;Servia;EU;2018;FG
+24;Tunísia;FRICA;2018;FG
+25;Polónia;EU;2018;FG
+26;Arábia Saudita;ASIA;2018;FG
+27;Marrocos;FRICA;2018;FG
+28;Islândia;EU;2018;FG
+29;Costa Rica;NA;2018;FG
+30;Austrália;ASIA;2018;FG
+31;Egito;FRICA;2018;FG
+32;Panamá;NA;2018;FG
