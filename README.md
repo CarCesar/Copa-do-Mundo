@@ -12,4 +12,4 @@ Exemplo:
 
 + Senegal participou de 2 copas até 2018. Em 2002 chegou até as quartas de final, já na segunda participação, 2018, parou na fase de grupos. Portanto a melhor classificação foi as Quartas de Final e uma das 3 três seleções africanas a chegar a esta fase.
 
-<img src=https://raw.githubusercontent.com/CarCesar/Copa-do-Mundo/main/Melhor_hist%C3%B3rico/img.png>
+<img src=https://raw.githubusercontent.com/CarCesar/Copa-do-Mundo/main/Melhor_hist%C3%B3rico/img.svg>
